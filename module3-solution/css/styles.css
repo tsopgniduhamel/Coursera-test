@@ -18,7 +18,7 @@ body {
     z-index: 9999;
   }
 .affix + .container {
-    padding-top: 20px;
+    padding-top: 50px;
   }
 
 .navbar-brand {
